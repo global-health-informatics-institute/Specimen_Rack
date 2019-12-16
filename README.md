@@ -1,2 +1,2 @@
 # Specimen_Rack
-This is a rack that holds different test tubes of different size.
+This is a rack that holds different sample tubes of different size.
